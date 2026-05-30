@@ -1,0 +1,6 @@
+# Block heavy package dependencies and local production builds
+node_modules/
+dist/
+package-lock.json
+.firebaserc
+firebase.json
